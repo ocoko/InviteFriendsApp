@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "639996536774",
+    "firebase_url": "https://loginregister-57021.firebaseio.com",
+    "project_id": "loginregister-57021",
+    "storage_bucket": "loginregister-57021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639996536774:android:195ce94d1c5f2e4eedb4c7",
+        "android_client_info": {
+          "package_name": "com.example.invitefriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639996536774-ajuekbvc1pc5e7dcqb9vgpd6retd20kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invitefriends",
+            "certificate_hash": "01cfd4f2e90d464a8329d8d74db0c5d9f53c5f43"
+          }
+        },
+        {
+          "client_id": "639996536774-giostr7qf4ntj78mdadol6vq3251ocoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invitefriends",
+            "certificate_hash": "4de811ceb0feb4389483e9ccacc98c91701f3e09"
+          }
+        },
+        {
+          "client_id": "639996536774-dcr7qoh1el0gp7ovk9oqa0l4makhehdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxDkDoo1dpUsAexHkadnMKSPmtM9GKq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639996536774-dcr7qoh1el0gp7ovk9oqa0l4makhehdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
